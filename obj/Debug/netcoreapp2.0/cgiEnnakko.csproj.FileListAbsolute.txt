@@ -1,0 +1,10 @@
+/home/venla/github/cgiEnnakko/bin/Debug/netcoreapp2.0/cgiEnnakko.deps.json
+/home/venla/github/cgiEnnakko/bin/Debug/netcoreapp2.0/cgiEnnakko.runtimeconfig.json
+/home/venla/github/cgiEnnakko/bin/Debug/netcoreapp2.0/cgiEnnakko.runtimeconfig.dev.json
+/home/venla/github/cgiEnnakko/bin/Debug/netcoreapp2.0/cgiEnnakko.dll
+/home/venla/github/cgiEnnakko/bin/Debug/netcoreapp2.0/cgiEnnakko.pdb
+/home/venla/github/cgiEnnakko/obj/Debug/netcoreapp2.0/cgiEnnakko.csproj.CoreCompileInputs.cache
+/home/venla/github/cgiEnnakko/obj/Debug/netcoreapp2.0/cgiEnnakko.AssemblyInfoInputs.cache
+/home/venla/github/cgiEnnakko/obj/Debug/netcoreapp2.0/cgiEnnakko.AssemblyInfo.cs
+/home/venla/github/cgiEnnakko/obj/Debug/netcoreapp2.0/cgiEnnakko.dll
+/home/venla/github/cgiEnnakko/obj/Debug/netcoreapp2.0/cgiEnnakko.pdb
